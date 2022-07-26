@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kunal-portfolio/static/css/main.f9b3e8a0.css",
+    "main.js": "/kunal-portfolio/static/js/main.3f0f5858.js",
+    "static/media/heroImage.png": "/kunal-portfolio/static/media/heroImage.005bbe87905d388f5ffc.png",
+    "static/media/travello.png": "/kunal-portfolio/static/media/travello.197bd577111dff74f0b4.png",
+    "static/media/pizzaWebsite.png": "/kunal-portfolio/static/media/pizzaWebsite.e5cf1e85427a3a1c777e.png",
+    "static/media/weatherApp.png": "/kunal-portfolio/static/media/weatherApp.e6ab68f8d214d5358ad7.png",
+    "static/media/react.png": "/kunal-portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/kunal-portfolio/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/html.png": "/kunal-portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/kunal-portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/kunal-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/kunal-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/kunal-portfolio/index.html",
+    "main.f9b3e8a0.css.map": "/kunal-portfolio/static/css/main.f9b3e8a0.css.map",
+    "main.3f0f5858.js.map": "/kunal-portfolio/static/js/main.3f0f5858.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9b3e8a0.css",
+    "static/js/main.3f0f5858.js"
+  ]
+}
